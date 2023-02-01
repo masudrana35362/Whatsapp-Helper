@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~
+  ~ Created by Md Masud Rana on 7/14/22, 4:53 PM
+  ~ masudrana35362@gmail.com
+  ~ Last modified 7/14/22, 4:53 PM
+  ~ Copyright (c) 2022.
+  ~
+  ~
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="5dp" />
+    <stroke
+        android:width="1dp"
+        android:color="#808080"/>
+
+
+</shape>

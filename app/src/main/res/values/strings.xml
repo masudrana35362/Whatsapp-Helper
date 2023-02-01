@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WhatsApps Helper</string>
+    <string name="enter_whatsapp_number">Enter Whatsapp Number</string>
+    <string name="enter_your_message_here">Type Your Message here....</string>
+    <string name="send">Send</string>
+    <string name="you_can_send">You can send whatsapp message without saving number, first enter the number and you type your message then tap to send button. Boom whatsapp open with this number option simply click the send whatsapp send button.</string>
+</resources>
